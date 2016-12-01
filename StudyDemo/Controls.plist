@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>标签 UILabel</string>
+		<key>vc</key>
+		<string>LabeVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>文本框  UITextField</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>按钮 UIButton</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>开关按钮 UISwitch</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>分段控件 UISegmentControl</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>图像 UIImageView</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>进度条 UIProgressView</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>滑动条 UISlider</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>警告框 UIAlertView</string>
+		<key>vc</key>
+		<string>ButtonVc</string>
+	</dict>
+</array>
+</plist>
